@@ -179,7 +179,7 @@ public class WeekScheduler {
 	public void printAllSchedule(){
 		System.out.println("====" + nthWeek + "주차 전체 스케쥴===");
 		for(int i = 0;i<week.length;i++) {
-			System.out.println(weekNames[i] + "요일 스케쥴: ");
+			System.out.println(weekNames[i] + "요일 스케쥴:  ");
 			week[i].info();
 		}
 		
