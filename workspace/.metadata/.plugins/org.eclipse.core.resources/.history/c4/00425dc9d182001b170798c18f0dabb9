@@ -1,0 +1,12 @@
+package ex07_recursive;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		SayHello sh = new SayHello();
+		sh.say(5);
+
+	}
+
+}
