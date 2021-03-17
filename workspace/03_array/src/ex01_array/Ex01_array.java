@@ -21,7 +21,7 @@ package ex01_array;
 	   a[2] : 0으로 초기화가 되어 있는 상태(자동)
 	6. 용어
 	   int[] a = new int[3];
-	   1) 배열이름 : a
+	   1) 배열이름 : 
 	   2) 배열길이 : 3 (a.length)
 	   3) 인덱스 : 0, 1, 2 (0부터 시작한다.)
 	      사용이 불가능한 인덱스를 사용하면 ArrayIndexOutOfBoundsException 예외가 발생합니다.
