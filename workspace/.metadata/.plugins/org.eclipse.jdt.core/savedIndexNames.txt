@@ -5,5 +5,4 @@ INDEX VERSION 1.131+C:\Users\ITSC\spring0303\javastudy\workspace\.metadata\.plug
 1379230523.index
 2485878017.index
 3907541951.index
-4061018098.index
 4108315126.index
