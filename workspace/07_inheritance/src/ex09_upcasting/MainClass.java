@@ -1,4 +1,4 @@
-package ex09_upcating;
+package ex09_upcasting;
 
 public class MainClass {
 
