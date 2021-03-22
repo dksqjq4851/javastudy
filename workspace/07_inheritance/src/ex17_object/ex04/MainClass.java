@@ -18,6 +18,8 @@ public class MainClass {
 		
 		//같은 종류의 제품
 		//제품은 2개(독립적인 제품)
+		
+		//object의 equals() 메소드는 객체의 데이터를 비교하지 않고, 같은 객체인지 다른 객체인지 비교합니다.
 		if(p1.equals(p2)) {
 			System.out.println("같은 종류의 제품입니다.");
 		}else {
