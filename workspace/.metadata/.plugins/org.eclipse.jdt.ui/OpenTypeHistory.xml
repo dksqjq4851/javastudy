@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
 <typeInfo handle="=07_inheritance/src&lt;ex12_abstract{Shape.java[Shape" modifiers="1025" timestamp="1616053090413"/>
-<typeInfo handle="=07_inheritance/src&lt;quiz04{Fighter.java[Fighter" modifiers="1025" timestamp="1616055206428"/>
+<typeInfo handle="=07_inheritance/src&lt;quiz04{Fighter.java[Fighter" modifiers="1025" timestamp="1616114608090"/>
+<typeInfo handle="=07_inheritance/src&lt;ex14_interface{Animal.java[Animal" modifiers="513" timestamp="1616117797910"/>
+<typeInfo handle="=07_inheritance/src&lt;ex15_interface_extends{Phone.java[Phone" modifiers="1" timestamp="1616120068302"/>
+<typeInfo handle="=07_inheritance/src&lt;ex15_interface_extends{Computable.java[Computable" modifiers="513" timestamp="1616120071691"/>
+<typeInfo handle="=07_inheritance/src&lt;ex16_interface_extends{Pet.java[Pet" modifiers="1" timestamp="1616120937205"/>
+<typeInfo handle="=07_inheritance/src&lt;quiz_06{Bunkable.java[Bunkable" modifiers="513" timestamp="1616125152947"/>
+<typeInfo handle="=07_inheritance/src&lt;quiz_06{Terran.java[Terran" modifiers="1" timestamp="1616125218194"/>
+<typeInfo handle="=08_exception/C:\/Program Files\/Java\/jre1.8.0_202\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1615949610290"/>
 </typeInfoHistroy>

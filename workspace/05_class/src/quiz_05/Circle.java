@@ -1,8 +1,20 @@
+  
 package quiz_05;
 
 public class Circle {
 
-	double radius;
+	// field
+	double radius;  // 반지름
 	
-	void setRadius()
+	// method
+	void setRadius(double radius) {
+		this.radius = radius;
+	}
+	double getCircum() {
+		return 2 * Math.PI * radius;
+	}
+	double getArea() {
+		return Math.PI * Math.pow(radius, 2);
+	}
+	
 }
