@@ -25,6 +25,7 @@ public class MainClass {
 		}else {
 			System.out.println("다른 종류의 제품입니다.");
 		}
+	
 	}
 
 }
