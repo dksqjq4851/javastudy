@@ -12,7 +12,7 @@ public class MainClass {
 		//System.out.println(calc.getTotal1(s)); 메소드 내부에서 s의 타입 string이 number로 캐스팅되다가 예외 발생
 		
 		System.out.println(calc.getTotal2(b));
-		//System.out.println(calc.getTotal2(s));
+		//]System.out.println(calc.getTotal2(s));
 		
 		
 		
