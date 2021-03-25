@@ -29,7 +29,7 @@ public class StaffManager {
 		menu();
 		System.out.println("선택(1~6) >>>");
 		switch(sc.nextInt()) {
-		case 1: insertStaff(); break;
+		case 1:insertStaff(); break;
 		case 2:updateStaff(); break;
 		case 3:deleteStaff(); break;
 		case 4:selectOne(); break;
