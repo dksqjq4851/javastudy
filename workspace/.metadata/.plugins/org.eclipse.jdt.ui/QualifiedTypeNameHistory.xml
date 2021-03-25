@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="ex09_upcating.Espresson"/>
-<fullyQualifiedTypeName name="ex09_upcating.Latte"/>
-<fullyQualifiedTypeName name="quiz02.Company"/>
-<fullyQualifiedTypeName name="ex10_downcastig.Student"/>
-<fullyQualifiedTypeName name="ex12_abstract.Rectangle"/>
-<fullyQualifiedTypeName name="ex12_abstract.Triangle"/>
-<fullyQualifiedTypeName name="ex12_abstract.Circle"/>
-<fullyQualifiedTypeName name="quiz04.KoreanFighter"/>
-<fullyQualifiedTypeName name="ex15_interface_extends.SmartPhone"/>
-<fullyQualifiedTypeName name="quiz01.Calcultor"/>
 <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
 <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
 <fullyQualifiedTypeName name="ex05_throw.Calcultor"/>
-<fullyQualifiedTypeName name="java.lang.Exception"/>
 <fullyQualifiedTypeName name="java.lang.SuppressWarnings"/>
 <fullyQualifiedTypeName name="ex06_exception_class.UpDownException"/>
 <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
@@ -34,7 +23,6 @@
 <fullyQualifiedTypeName name="ex03_generic.Box"/>
 <fullyQualifiedTypeName name="java.lang.Number"/>
 <fullyQualifiedTypeName name="ex04_generic_method.Calculator"/>
-<fullyQualifiedTypeName name="java.sql.Date"/>
 <fullyQualifiedTypeName name="quiz01.Member"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.util.LinkedList"/>
@@ -42,8 +30,6 @@
 <fullyQualifiedTypeName name="org.omg.PortableInterceptor.SYSTEM_EXCEPTION"/>
 <fullyQualifiedTypeName name="ex05_list.HashSetMainClass"/>
 <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
-<fullyQualifiedTypeName name="java.util.Map"/>
-<fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="javax.swing.text.html.HTMLDocument.Iterator"/>
 <fullyQualifiedTypeName name="java.util.Iterator"/>
 <fullyQualifiedTypeName name="java.util.Map.Entry"/>
@@ -56,8 +42,22 @@
 <fullyQualifiedTypeName name="ex09_hash.Board"/>
 <fullyQualifiedTypeName name="lombok.Data"/>
 <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="quiz04.Book"/>
 <fullyQualifiedTypeName name="quiz04.Library"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="java.sql.Driver"/>
+<fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.util.concurrent.ExecutionException"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="conection.DBConnection"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
 </qualifiedTypeNameHistroy>
