@@ -16,6 +16,7 @@ public class MainClass {
 		gun2.start();
 		
 		// 실행 예시
+		.
 		// 콜트 1발 쐈다.
 		// 콜트 2발 쐈다.
 		// 베레타 1발 쐈다.
