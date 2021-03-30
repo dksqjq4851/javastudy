@@ -1,6 +1,6 @@
 package main;
 
-import java.util.List;
+import java.util.*;
 import java.util.Scanner;
 
 import dao.StaffDao;
